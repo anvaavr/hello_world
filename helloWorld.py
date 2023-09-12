@@ -1,2 +1,2 @@
-
+print("hh")
 print("bye")
